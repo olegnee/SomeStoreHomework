@@ -4,7 +4,21 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="92cf2f02-e162-4dca-a2ab-142a3332b79b" name="Changes" comment="" />
+    <list default="true" id="92cf2f02-e162-4dca-a2ab-142a3332b79b" name="Changes" comment="init commit">
+      <change afterPath="$PROJECT_DIR$/src/Product/ProductRating.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/ClientsGrade.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/ClientBusket.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/ClientBusket.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/Product.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Product/Product.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/ProductFilter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Product/ProductFilter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/ProductRating.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/ProductTracker.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Product/ProductTracker.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/ProductsDad.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Product/ProductsDad.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/Rating.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Rating/Rating.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/Recommendation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Rating/Recommendation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/Warehouse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Warehouse/Warehouse.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,8 +27,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Interface" />
         <option value="Class" />
+        <option value="Interface" />
       </list>
     </option>
   </component>
@@ -119,6 +133,14 @@
       <option name="presentableId" value="Default" />
       <updated>1654019744116</updated>
     </task>
+    <task id="LOCAL-00001" summary="init commit">
+      <created>1655670113705</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1655670113705</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -132,12 +154,16 @@
       </map>
     </option>
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="init commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="init commit" />
+  </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/com/company/Main.java</url>
-          <line>17</line>
+          <line>20</line>
           <option name="timeStamp" value="2" />
         </line-breakpoint>
       </breakpoints>

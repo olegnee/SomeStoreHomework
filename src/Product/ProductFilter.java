@@ -1,4 +1,4 @@
-package com.company;
+package Product;
 
 public class ProductFilter {
 }

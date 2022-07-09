@@ -1,16 +1,16 @@
-package com.company;
+package Warehouse;
 
-import java.util.ArrayList;
+import Product.Product;
+
 import java.util.HashMap;
 import java.util.Map;
+// single - responsibility principle , класс склада выполняет только логически связанный с ним функционал.
 
 public class Warehouse {
-    private static Warehouse warehouse;
-
     Warehouse() {
     }
 
-    private static final Map<String, Integer> WAREHOUSE = new HashMap<>();
+    protected static final Map<String, Integer> WAREHOUSE = new HashMap<>();
 
     public static void sendProductToWarehouse(Product product) {
         WAREHOUSE.put(product.getName(), product.getAmount());

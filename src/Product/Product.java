@@ -1,9 +1,29 @@
-package com.company;
+package Product;
 
 public class Product {
     private String name;
     private int amount;
     private String unitOfMeasure;
+    private double rating;
+    private double clientsGrade;
+
+    // single - responsibility principle , класс продукт выполняет только логически связанный с ним функционал.
+
+    public double getRating() {
+        return rating;
+    }
+
+    public void setRating(double rating) {
+        this.rating = rating;
+    }
+
+    public double getClientsGrade() {
+        return clientsGrade;
+    }
+
+    public void setClientsGrade(double clientsGrade) {
+        this.clientsGrade = clientsGrade;
+    }
 
     @Override
     public String toString() {

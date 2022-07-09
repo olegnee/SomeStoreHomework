@@ -1,4 +1,4 @@
-package com.company;
+package Rating;
 
 public class Recommendation {
 }

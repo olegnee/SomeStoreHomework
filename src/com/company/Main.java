@@ -1,5 +1,8 @@
 package com.company;
 
+import Product.Product;
+import Warehouse.Warehouse;
+
 import java.util.ArrayList;
 
 public class Main {
