@@ -1,6 +1,6 @@
 package Product;
 
-public class Product {
+public class Product extends ProductsDad{
     private String name;
     private int amount;
     private String unitOfMeasure;

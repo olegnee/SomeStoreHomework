@@ -4,20 +4,31 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="92cf2f02-e162-4dca-a2ab-142a3332b79b" name="Changes" comment="init commit">
-      <change afterPath="$PROJECT_DIR$/src/Product/ProductRating.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/ClientsGrade.java" afterDir="false" />
+    <list default="true" id="92cf2f02-e162-4dca-a2ab-142a3332b79b" name="Changes" comment="divine commit">
+      <change afterPath="$PROJECT_DIR$/src/Rating/ProductRating.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/ClientBusket.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/ClientBusket.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/Product.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Product/Product.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/ProductFilter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Product/ProductFilter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/ProductRating.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/ProductTracker.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Product/ProductTracker.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/ProductsDad.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Product/ProductsDad.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/Rating.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Rating/Rating.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/Recommendation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Rating/Recommendation.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/Warehouse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Warehouse/Warehouse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MegaSttoreHomework/com/company/ClientBusket.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MegaSttoreHomework/com/company/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MegaSttoreHomework/com/company/MenuDemonstrator$Iterator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MegaSttoreHomework/com/company/MenuDemonstrator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MegaSttoreHomework/com/company/Product.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MegaSttoreHomework/com/company/ProductFilter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MegaSttoreHomework/com/company/ProductRating.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MegaSttoreHomework/com/company/ProductTracker.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MegaSttoreHomework/com/company/ProductsDad.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MegaSttoreHomework/com/company/Rating.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MegaSttoreHomework/com/company/Recommendation.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MegaSttoreHomework/com/company/Warehouse.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Product/Product.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Product/Product.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Product/ProductFilter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Product/ProductRating.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Product/ProductsDad.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Product/ProductsDad.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Rating/Rating.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Rating/Rating.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Rating/Recommendation.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Warehouse/Warehouse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Warehouse/Warehouse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/ClientBusket.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ClientsExpierence/ClientBusket.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/ClientsGrade.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ClientsExpierence/ClientsGrade.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -109,7 +120,7 @@
   </component>
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.Main" />
+      <option name="MAIN_CLASS_NAME" value="Main" />
       <module name="MegaSttoreHomework" />
       <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
       <RunnerSettings RunnerId="Run" />
@@ -140,7 +151,14 @@
       <option name="project" value="LOCAL" />
       <updated>1655670113705</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="divine commit">
+      <created>1657377923928</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1657377923928</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -156,13 +174,14 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="init commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="init commit" />
+    <MESSAGE value="divine commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="divine commit" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/com/company/Main.java</url>
+          <url>file://$PROJECT_DIR$/src/Main.java</url>
           <line>20</line>
           <option name="timeStamp" value="2" />
         </line-breakpoint>
