@@ -1,7 +1,7 @@
-package ClientsExpierence;
+package clientsExpeirence;
 
-import Product.Product;
-import Warehouse.Warehouse;
+import product.Product;
+import warehouse.Warehouse;
 
 import java.util.ArrayList;
 

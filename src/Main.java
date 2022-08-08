@@ -1,6 +1,6 @@
-import Product.Product;
-import Warehouse.Warehouse;
-import ClientsExpierence.ClientBusket;
+import product.Product;
+import clientsExpeirence.ClientBusket;
+import warehouse.Warehouse;
 
 import java.util.ArrayList;
 

@@ -1,4 +1,4 @@
-package Product;
+package product;
 
 abstract class ProductsDad {
     private String name;

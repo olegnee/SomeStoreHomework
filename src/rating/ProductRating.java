@@ -1,8 +1,8 @@
-package Rating;
+package rating;
 
-import ClientsExpierence.ClientsGrade;
-import Product.Product;
-import Warehouse.Warehouse;
+import clientsExpeirence.ClientsGrade;
+import product.Product;
+import warehouse.Warehouse;
 
 //open - closed principle в интерфейсе сохранен метод для рейтинга, а класс можно расширить и добавить функцию оценки товара от клиентов.
 // interface segregation principle, имплимитация двух интерфейсов.

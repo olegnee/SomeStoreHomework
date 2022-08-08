@@ -1,6 +1,4 @@
-package Rating;
-
-import Product.Product;
+package rating;
 
 public interface Rating {
 

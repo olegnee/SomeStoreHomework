@@ -1,4 +1,4 @@
-package Product;
+package product;
 
 public class Product extends ProductsDad{
     private String name;

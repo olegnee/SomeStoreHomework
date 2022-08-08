@@ -1,10 +1,8 @@
-package Warehouse;
+package warehouse;
 
-import Product.Product;
+import product.Product;
 
 import java.util.ArrayList;
-import java.util.HashMap;
-import java.util.Map;
 // single - responsibility principle , класс склада выполняет только логически связанный с ним функционал.
 
 public class Warehouse {
